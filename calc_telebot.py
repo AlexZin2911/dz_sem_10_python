@@ -3,7 +3,7 @@ from telebot import types
 from datetime import datetime as dt
 import logger
 
-bot = telebot.TeleBot('5934334490:AAG8GxYl8TLuF9zH7v7ZE_uGvZEDwLAxjUo')
+bot = telebot.TeleBot('TOKEN')
 
 value = ''
 old_value = ''
